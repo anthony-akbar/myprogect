@@ -7,7 +7,7 @@ class Section3 extends Component {
             <section className="w3-row-padding w3-center w3-light-grey">
                 <article className="w3-third">
                     <p>John</p>
-                    <img src={bandmember} alt="Random Name" />
+                    <img src={bandmember} alt="Random Name"/>
                         <p>John is the smartest.</p>
                 </article>
                 <article className="w3-third">

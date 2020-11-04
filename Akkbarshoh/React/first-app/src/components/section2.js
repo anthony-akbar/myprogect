@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class Section2 extends Component {
     render() {
         return (
-            <section className="w3-container w3-center w3-content" >
+            <section className="w3-container w3-center w3-content" style={{maxWidth:'600px'}}>
                 <h2 className="w3-wide">THE BAND</h2>
                 <p className="w3-opacity"><i>We love music</i></p>
                 <p className="w3-justify">We have created a fictional band website. Lorem ipsum dolor sit amet,

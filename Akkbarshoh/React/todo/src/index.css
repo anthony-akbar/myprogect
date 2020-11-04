@@ -10,5 +10,17 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-
 }
+
+.guest-list {
+  color:red;
+  list-style:none;
+  display:flex;
+  justify-content:space-around
+}
+.list-group-item{
+  cursor: pointer;
+  flex-grow: 1;
+}
+
+
